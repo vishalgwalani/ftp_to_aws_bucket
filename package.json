@@ -1,0 +1,22 @@
+{
+  "name": "ftp_to_s3",
+  "version": "1.0.0",
+  "description": "transfers file from ftp server to s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalgwalani/ftp_to_aws_bucket.git"
+  },
+  "author": "vishal gwalani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalgwalani/ftp_to_aws_bucket/issues"
+  },
+  "homepage": "https://github.com/vishalgwalani/ftp_to_aws_bucket#readme",
+  "dependencies": {
+    "any-file": "0.0.29"
+  }
+}
